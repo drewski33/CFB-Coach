@@ -1,0 +1,137 @@
+﻿Drew Balanced FC2 Universe
+NEC,East,West,,,,,,,
+JCC,Atlantic,Coastal,,,,,,,
+Big Pen,East,West,,,,,,,
+Big 12,Sheriff,Outlaw,,,,,,,
+Mac 12,North,South,,,,,,,
+ASC,East,West,,,,,,,
+# Team format:,Conference,Division,Name,Abbr,Prestige,Rival,,,
+# NEC,,,,,,,,,
+TEAM,NEC,West,Westville,WVL,110,TMN,,,
+TEAM,NEC,West,Arkdale,ARK,85,SCAN,,,
+TEAM,NEC,West,Cumberland,CMB,120,FL,,,
+TEAM,NEC,West,Axon,AX,85,G,,,
+TEAM,NEC,West,Moorehead,MOO,75,KV,,,
+TEAM,NEC,West,Olney,OL,75,VF,,,
+TEAM,NEC,West,Aggy Lane,AL,70,MIT,,,
+TEAM,NEC,East,Ginney,G,90,AUX,,,
+TEAM,NEC,East,Flampton,FL,100,CMB,,,
+TEAM,NEC,East,Toriam North,TMN,100,WVL,,,
+TEAM,NEC,East,South Carone,SCAN,75,ARK,,,
+TEAM,NEC,East,Mitton,MIT,75,AL,,,
+TEAM,NEC,East,Kenvale,KV,70,MOO,,,
+TEAM,NEC,East,Vin Forest,VF,20,OL,,,
+# JCC,,,,,,,,,
+TEAM,JCC,Atlantic,Crystal River,CRV,115,LV,,,
+TEAM,JCC,Atlantic,Silver Creek,SC,90,ME,,,
+TEAM,JCC,Atlantic,Louisvale,LOV,80,VXL,,,
+TEAM,JCC,Atlantic,North Hill,NH,80,LVL,,,
+TEAM,JCC,Atlantic,Norvell,NV,75,EXT,,,
+TEAM,JCC,Atlantic,Birman,B,70,PT,,,
+TEAM,JCC,Atlantic,Wally Tech,WT,10,D,,,
+TEAM,JCC,Coastal,Mile East,ME,90,SC,,,
+TEAM,JCC,Coastal,Proctor,PT,85,B,,,
+TEAM,JCC,Coastal,Lake Valley,LVL,80,NH,,,
+TEAM,JCC,Coastal,Exon Tech,EXT,87,NV,,,
+TEAM,CC,Coastal,Lake View,LV,75,CRV,,,
+TEAM,JCC,Coastal,Durnam,D,85,WT,,,
+TEAM,JCC,Coastal,Vixon Lane,VXL,80,LOV,,,
+# BP,,,,,,,,,
+TEAM,Big Pen,West,West Curl,WC,120,OVL,,,
+TEAM,Big Pen,West,Nelson,N,85,MC,,,
+TEAM,Big Pen,West,Hillview,HVW,80,PV,,,
+TEAM,Big Pen,West,Riverbank,RB,75,CC,,,
+TEAM,Big Pen,West,Purdue,PUR,70,GST,,,
+TEAM,Big Pen,West,Minnesota,MINN,85,IND,,,
+TEAM,Big Pen,West,Illinois,ILL,40,RUT,,,
+TEAM,Big Pen,East,Ovalon,OVL,95,WC,,,
+TEAM,Big pen,East,Marson Creek,MC,93,N,,,
+TEAM,Big Pen,East,Palm Valley,PV,90,HVW,,,
+TEAM,Big pen,East,Copper Cove,CC,85,RB,,,
+TEAM,Big Pen,East,Gelstean,GST,105,PUR,,,
+TEAM,Big Pen,East,Indiana,IND,65,MINN,,,
+TEAM,Big Pen,East,Rutgers,RUT,55,ILL,,,
+# Big 12,,,,,,,,,
+TEAM,Big 12,Sheriff,Tipton Tech,TT,110,OKL,,,
+TEAM,Big 12,Sheriff,Iowa State,ISU,75,BAY,,,
+TEAM,Big 12,Sheriff,TCU,TCU,80,OKST,,,
+TEAM,Big 12,Sheriff,Boise State,BSU,80,KSU,,,
+TEAM,Big 12,Sheriff,American Samoa,SAM,95,KU,,,
+TEAM,Big 12,Sheriff,Texas Tech,TTU,75,WVU,,,
+TEAM,Big 12,Sheriff,Colorado St,CSU,60,WYO,,,
+TEAM,Big 12,Outlaw,Baylor,BAY,70,ISU,,,
+TEAM,Big 12,Outlaw,Oklahoma,OKL,95,TT,,,
+TEAM,Big 12,Outlaw,Oklahoma St,OKST,85,TCU,,,
+TEAM,Big 12,Outlaw,Kansas St,KSU,80,BSU,,,
+TEAM,Big 12,Outlaw,West Virginia,WVU,80,TTU,,,
+TEAM,Big 12,Outlaw,Wyoming,WYO,40,CSU,,,
+TEAM,Big 12,Outlaw,Kansas,KU,85,SAM,,,
+# Pac 12,,,,,,,,,
+TEAM,Pac 12,North,Golden Sierra,GSE,130,USH,,,
+TEAM,Pac 12,North,Notre Dame,ND,90,USC,,,
+TEAM,Pac 12,North,Washington,WASH,85,ARIZ,,,
+TEAM,Pac 12,North,Stanford,STAN,85,BYU,,,
+TEAM,Pac 12,North,Washington St,WSU,75,ASU,,,
+TEAM,Pac 12,North,California,CAL,70,UCLA,,,
+TEAM,Pac 12,North,Oregon St,ORST,60,COLO,,,
+TEAM,Pac 12,South,USC,USC,90,ND,,,
+TEAM,Pac 12,South,UCLA,UCLA,85,CAL,,,
+TEAM,Pac 12,South,Uson Hill,USH,85,GSE,,,
+TEAM,Pac 12,South,BYU,BYU,75,STAN,,,
+TEAM,Pac 12,South,Arizona,ARIZ,75,WASH,,,
+TEAM,Pac 12,South,Arizona St,ASU,70,WSU,,,
+TEAM,Pac 12,South,Colorado,COLO,35,ORST,,,
+# MAC,,,,,,,,,
+TEAM,MAC,West,Houston,HOU,80,UP,,,
+TEAM,MAC,West,Memphis,MEM,75,CIN,,,
+TEAM,MAC,West,SMU,SMU,70,USF,,,
+TEAM,MAC,West,App State,APP,70,TROY,,,
+TEAM,MAC,West,Navy,NAVY,70,ARMY,,,
+TEAM,MAC,West,Carter,C,1,VH,,,
+TEAM,MAC,West,Tulsa,TLSA,55,TEM,,,
+TEAM,MAC,East,United Park,UP,90,HOU,,,
+TEAM,MAC,East,Cincinnati,CIN,75,MEM,,,
+TEAM,MAC,East,South Florida,USF,75,SMU,,,
+TEAM,MAC,East,Troy,TROY,70,APP,,,
+TEAM,MAC,East,Temple,TEM,70,TLSA,,,
+TEAM,AAC,East,Vincent High,VH,1,C,,,
+TEAM,MAC,East,Army,ARMY,75,NAVY,,,
+# Coaches,,,,,,,,,
+# Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme
+COACH,GST,Graig Vohl,40,150,250,300,300,Spread,Conservative,,,,,,,
+# Players,,,,,,,,,
+# Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,
+PLAYER,GST,QB,Roy Beckford,Fr,73,200,14,,
+PLAYER,GST,CB,Xavier Xell,Fr,72,210,11,,
+PLAYER,GST,WR,Saivian Smith,Fr,77,200,8,,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+END_FILE,,,,,,,,,
